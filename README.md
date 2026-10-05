@@ -19,4 +19,5 @@
 # Meb kitabı
 
 # Görseller
-<img width="363" height="357" alt="Untitled" src="https://github.com/user-attachments/assets/e015c93c-5360-45b1-a692-8b4d8abf5d97" />
+<img width="363" height="385" alt="Untitled(1)" src="https://github.com/user-attachments/assets/12d4082e-8d0a-4366-948c-1a0c071a3f05" />
+
