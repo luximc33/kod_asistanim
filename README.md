@@ -1,3 +1,4 @@
+
 # kod_asistanim
 # Proje Yazarı: Semih Dikici
 # Projenin Adı: Kod-Asistan v0.1
@@ -16,3 +17,4 @@
 
 ## Kaynakca: 
 # Meb kitabı
+<img width="363" height="357" alt="Untitled" src="https://github.com/user-attachments/assets/e015c93c-5360-45b1-a692-8b4d8abf5d97" />
