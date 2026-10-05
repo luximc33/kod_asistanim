@@ -1,5 +1,5 @@
 # kod_asistanim
-Proje Yazarı: Semih Dikici
+# Proje Yazarı: Semih Dikici
 # Projenin Adı: Kod-Asistan v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama,selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri: Kullanıcılara gunluk hayatında yaptıgı islerde, calısmalarda ve hesaplamalarda işini kolaylastıracak şekilde yardımcı olmak.
