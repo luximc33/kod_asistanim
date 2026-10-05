@@ -5,14 +5,14 @@ Proje Yazarı: Semih Dikici
 ## Projenin Hedefleri: Kullanıcılara gunluk hayatında yaptıgı islerde, calısmalarda ve hesaplamalarda işini kolaylastıracak şekilde yardımcı olmak.
 ## Projenin Kapsamı:
 
-#1. Adım Başla
-#2. Su seviyesi = 42
-#3. Saat sayac:=1
-#4. Eger su seviyesi>50 ise 6. adıma
-#5. Değilse kapakları kapalı tut
+# Başla
+# Su seviyesi = 42
+# Saat sayac:=1
+# Eger su seviyesi>50 ise 6. adıma
+# Değilse kapakları kapalı tut
 # saat=saat+1, adım 3 e git
-#6.Tahliye saatini ve kritik su seviyesini yazdır
-#7. Bitir
+# Tahliye saatini ve kritik su seviyesini yazdır
+# Bitir
 
 ## Kaynakca: 
 # Meb kitabı
