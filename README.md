@@ -17,4 +17,6 @@
 
 ## Kaynakca: 
 # Meb kitabı
+
+# Görseller
 <img width="363" height="357" alt="Untitled" src="https://github.com/user-attachments/assets/e015c93c-5360-45b1-a692-8b4d8abf5d97" />
